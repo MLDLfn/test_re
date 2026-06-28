@@ -1,5 +1,5 @@
 (function() {
-  const API_BASE = 'http://localhost:3000';
+  const API_BASE = 'https://test-re-abi0.onrender.com';
   let authTab = 'login';
   let currentUser = null;
 
